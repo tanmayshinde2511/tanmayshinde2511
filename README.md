@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @tanmayshinde2511
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanmayshinde2511@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ I'm Currently working as Junior Java Analyst Intern at Innvovatus Technologies Pune
 - 
 
 <!---
